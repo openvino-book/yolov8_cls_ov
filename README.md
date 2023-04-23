@@ -1,2 +1,2 @@
-# yolov8_cls_ov
-yolov8-cls OpenVINO inference code example
+# yolov8_ov
+yolov8 OpenVINO inference code example
